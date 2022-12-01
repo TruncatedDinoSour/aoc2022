@@ -1,0 +1,6 @@
+.ccls-cache/
+sample.txt
+input.txt
+__pycache__/
+*.pyc
+.mypy_cache/
