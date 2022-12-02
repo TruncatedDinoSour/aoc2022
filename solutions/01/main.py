@@ -38,7 +38,7 @@ def main() -> int:
     data.append(tmp)
 
     log("Preparing data")
-    data = sorted(data)
+    data.sort()
 
     log("Solving problems")
     print(
