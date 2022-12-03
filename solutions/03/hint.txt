@@ -1,0 +1,18 @@
+Compartments: string chopped in 2 halfs
+
+1st compartment: vJrwpWtwJgWr
+2nd compartment: hcsFMMfFFhFp
+Shared items: p
+
+1st compartment: jqHRNqRjqzjGDLGL
+2nd compartment: rsFMfFZSrLrFZsSL
+Shared items: L
+
+.. P, v, t, s
+
+Priority:
+    a-z: 1-26
+    A-Z: 27-52
+
+Sum of priorities for p (16), L (28), P (42), v (22), t (20) and s (19) is 157
+Meaning the answer would be 157 compared to a sample
