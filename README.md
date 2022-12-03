@@ -7,3 +7,10 @@
 ```sh
 $ python3 main.py <input.txt
 ```
+
+## Leaderboard
+
+If y'all wanna, join this leaderboard: `990225-c030d5e9`
+
+To join (enter the code there): https://adventofcode.com/2022/leaderboard/private
+To view (I think it only works if you have joined it): https://adventofcode.com/2022/leaderboard/private/view/990225

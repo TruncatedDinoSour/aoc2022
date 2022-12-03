@@ -55,7 +55,6 @@ def main() -> int:
     """Entry/main function"""
 
     log("Reading and prepating data from stdin")
-
     data: list[tuple[str, str]] = [
         (line[: len(line) // 2], line[len(line) // 2 :])
         for line in map(str.strip, sys.stdin)
