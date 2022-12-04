@@ -14,18 +14,15 @@ def log(msg: str) -> None:
 
 def part_one(data: list[tuple[int, ...]]) -> int:
     return sum(
-        1
-        if line[0] <= line[2] <= line[3] <= line[1]
+        line[0] <= line[2] <= line[3] <= line[1]
         or line[2] <= line[0] <= line[1] <= line[3]
-        else 0
         for line in data
     )
 
 
 def part_two(data: list[tuple[int, ...]]) -> int:
     return sum(
-        1 if line[0] <= line[2] <= line[1] or line[2] <= line[0] <= line[3] else 0
-        for line in data
+        line[0] <= line[2] <= line[1] or line[2] <= line[0] <= line[3] for line in data
     )
 
 
