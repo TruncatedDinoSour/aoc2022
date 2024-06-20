@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/aoc2022>
 # AoC2022
 
 > My advent of code solutions for 2022/12/01 - 2023/01/01 https://adventofcode.com/
